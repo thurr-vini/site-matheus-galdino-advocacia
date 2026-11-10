@@ -39,3 +39,6 @@ Edite `src/js/config.js` e substitua os campos provisórios:
 Depois de definir o domínio oficial, configure a URL canônica no `index.html` e os metadados sociais com o endereço definitivo.
 
 A pasta `node_modules` não deve ser enviada ao GitHub. O arquivo `.gitignore` já a exclui.
+
+## Contato via WhatsApp
+O formulário solicita apenas nome e mensagem e abre o WhatsApp para o visitante confirmar o envio. Não existe envio por e-mail ou armazenamento de mensagens no site. Número configurado: 5583986101196.
