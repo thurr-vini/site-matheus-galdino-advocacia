@@ -1,0 +1,14 @@
+ATUALIZAÇÃO DOS BOTÕES DE WHATSAPP
+
+Número configurado: +55 (83) 98610-1196
+
+1. Entre no repositório GitHub na branch main.
+2. Faça upload do conteúdo DESTA PASTA (não envie só o ZIP).
+3. Preserve os caminhos src/js/main.js, src/js/config.js e index.html.
+4. Confirme o commit e observe o novo deploy na Vercel.
+5. Recarregue a página usando Ctrl+Shift+R.
+
+Para testar o formulário: preencha NOME e MENSAGEM antes de clicar em Continuar pelo WhatsApp.
+O aviso vermelho exibido quando campos estão vazios é uma validação, não um erro do WhatsApp.
+
+O botão Atendimento via WhatsApp tem link direto no HTML, como alternativa se o JavaScript falhar.
